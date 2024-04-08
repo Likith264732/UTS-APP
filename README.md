@@ -1,0 +1,1 @@
+UTS provides the facility to purchase unreserved tickets three days in advance of the date of journey. A passenger can buy a ticket for any destination from the UTS counter for all such destinations which are served by that station. The cancellation of tickets has also been simplified.
